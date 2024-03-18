@@ -1,0 +1,5 @@
+﻿  Juego.cpp
+D:\Backup\UNLVirtual\Modelos y Algoritmos para videojuegos 2\tps\intento\intento ragdoll\Juego.cpp(9,26): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+D:\Backup\UNLVirtual\Modelos y Algoritmos para videojuegos 2\tps\intento\intento ragdoll\Juego.cpp(200,30): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Backup\UNLVirtual\Modelos y Algoritmos para videojuegos 2\tps\intento\intento ragdoll\Juego.cpp(208,34): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  intento ragdoll.vcxproj -> D:\Backup\UNLVirtual\Modelos y Algoritmos para videojuegos 2\tps\intento\intento ragdoll\x64\Debug\intento ragdoll.exe

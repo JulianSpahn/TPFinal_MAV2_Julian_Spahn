@@ -1,0 +1,3 @@
+C:\Users\julia\Documents\intento ragdoll\x64\Debug\intento ragdoll.exe
+C:\Users\julia\Desktop\tp1\intento ragdoll\x64\Debug\intento ragdoll.exe
+D:\Backup\UNLVirtual\Modelos y Algoritmos para videojuegos 2\tps\intento\intento ragdoll\x64\Debug\intento ragdoll.exe
